@@ -26,6 +26,7 @@
     "lint-staged": "^9.5.0",
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
+    "vue-loader-v16": "^16.0.0-beta.5.4",
     "vue-moment": "^4.1.0"
   },
   "gitHooks": {
